@@ -1,0 +1,6 @@
+{
+  "name": "Meadowlight Village",
+  "description": "A cozy 2D pixel-art farming and life simulation game with farming, animals, village exploration, fishing, and quests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
